@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using session_storage_to_redis.Attributes;
 
-namespace board_dotnet.Controllers
+namespace session_storage_to_redis.Controllers
 {
     [ApiController]
     [Route("api/auth")]
